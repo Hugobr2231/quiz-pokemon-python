@@ -1,23 +1,5 @@
- Quiz Pokémon em Python (Feito em 05/03/2026)
+Python Mini Projects
 
-Mini quiz feito enquanto aprendia Python.
+Repositório com pequenos projetos feitos enquanto aprendo Python.
 
-Como jogar
-
-1. Execute o arquivo `quiz.py`  
-2. Responda as perguntas digitando a letra correspondente (A, B, C, D)  
-3. O jogo irá contar seus pontos e mostrar o resultado final
-
-Funcionalidades
-
-- Contador de pontos
-- Perguntas e respostas interativas
-- Feedback de correto/incorreto
-
-Observações
-
-Projeto feito para fins de aprendizado. Futuras versões podem incluir:
-
-- Mais perguntas
-- Tolerância a maiúsculas/minúsculas
-- Ranking ou pontuação cumulativa
+Cada pasta contém um mini projeto para praticar lógica de programação, loops, condicionais e outros conceitos da linguagem que eu fiz enquanto estudava sobre a linguagem de programação Python.
